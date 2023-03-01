@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there 👋 I'm Jennie!<h1>
-  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" height="200px" width="200px"/>
+  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" height="300px" width="400px"/>
 </div>
 
 ### My Technologies:                                                           
